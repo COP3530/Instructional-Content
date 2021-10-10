@@ -1,4 +1,4 @@
-# COP3530
+# COP3530 Data Structures and Algorithms 
 This repo contains instructional material for the COP3530 Data Structures and Algorithms course. 
 
 Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
